@@ -50,7 +50,7 @@
 #endif
 
 #ifdef ENGLISH
-#define UNITS_IMPERIAL
+#define UNITS_METRIC
 #elif GERMAN
 #define UNITS_METRIC
 #endif
