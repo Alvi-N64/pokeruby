@@ -1,7 +1,9 @@
 # Pokémon Ruby and Sapphire
 
-This is an Indonesian translation of Pokémon Rruby and Sapphire based on the pret decompilation.
+This is an Indonesian translation of Pokémon Ruby and Sapphire based on the pret decompilation.
 
+Kalau judulnya ikut diterjemahkan jadi 
+Pokémon Rubi & Pokémon Safir.
 
 # Rencana
 
